@@ -1,0 +1,33 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+~$*
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+
+# Generated Files
+*.publish/
+app.publish/
+
+# Other IDE or tooling specific files
+.idea/
