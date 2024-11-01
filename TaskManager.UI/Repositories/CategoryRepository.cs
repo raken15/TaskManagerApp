@@ -1,6 +1,6 @@
 using TaskManager.UI.Models;
 
-namespace TaskManager.UI.Reposities;
+namespace TaskManager.UI.Repositories;
 
 public class CategoryRepository : IRepository<Category>
 {
