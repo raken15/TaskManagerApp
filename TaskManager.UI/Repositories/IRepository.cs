@@ -1,4 +1,4 @@
-namespace TaskManager.UI.Repository
+namespace TaskManager.UI.Repositories
 {
     public interface IRepository<T>
     {
