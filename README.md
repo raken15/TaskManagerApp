@@ -45,12 +45,11 @@
 ### Installation Steps
 
 1. Navigate to the **Releases** section of this project.
-   - The latest release, **v1.0.0**, can be found [here](https://github.com/raken15/TaskManagerApp/releases/tag/v1.0.0).
+   - The latest release can be found [here](https://github.com/raken15/TaskManagerApp/releases/).
 2. Download the `TaskManager_v1.0.0.zip` file.
-3. Extract the contents of the zip file.
+   1. Or any other release version zip.
+4. Extract the contents of the zip file.
 5. Run the `TaskManager.exe` file.
-6. Use the user interface (UI) to manage stock trading activities. Prices will update automatically, allowing you to monitor the performance of your financial portfolio.
-7. The objective is to reach a winning amount of $10,000 (default) while avoiding a loss of $1 (default).
 
 ## Building and Running the Project
 
